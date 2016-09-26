@@ -2,8 +2,8 @@ echo "MY VIMRC LOADED"
 set tabstop=4
 set softtabstop=4
 set expandtab
-shiftwidth=4
-smarttab
+set shiftwidth=4
+set smarttab
 
 set number
 set cursorline
